@@ -1,6 +1,6 @@
 package contas;
 public class Main {
-
+    //Método main
     public static void main(String[] args) {
         CCuenta conta1;
         double saldoActual;
